@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(28, 17, 4);
+}
+.col-md-6,.form-select,.gender,.form-check-label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: rgb(97, 96, 96);
+}
+.sub{
+    margin-top: 30px;
+    width: 170px; border: 1px solid rgb(20, 166, 206) ;
+    border-radius: 3rem; background-color: rgb(120, 149, 238); color: black; font-weight: bold;
+}
+.sub:hover{
+    background-color:  rgb(2, 125, 163); 
+}
+.form-check,.col-md-6,.form-select,.gender{
+    margin-top: 20px; border-radius: 3rem;
+}
+.ff{
+    margin-left: 30px; margin-top: 30px;
+}
+
+.form{
+  margin-left: 50px;
+}
+.back{
+    background-color: rgb(250, 248, 248); border: 1px solid black; width: 50%;
+    margin-left: 30%; margin-top: 20px; max-height: 900px;
+}
+.h1{
+    margin-left: 50%; margin-top: 60px;
+}
+
+
+
+
+.form-select{
+    max-width: 200px;
+}
